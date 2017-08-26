@@ -1,0 +1,41 @@
+body {
+  background-color: #263238;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 15%;
+  font-size: 64px;
+  color: white;
+}
+
+.inner-box {
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: center;
+  border-radius: 5%;
+}
+
+.top {
+  padding: 5%;
+  height: 50px;
+  background-color: #D50000;
+  font-size: 36px;
+  color: white;
+}
+
+.middle {
+  padding: 5%;
+  height: 150px;
+  background-color: #607D8B;
+}
+
+.bottom {
+  padding: 5%;
+  height: 50px;
+  background-color: #00BCD4;
+}
+
+.what {
+  color: white;
+}
